@@ -21,8 +21,5 @@ abstract class Bundle {
         return point;
     }
 
-    public abstract void cetak();
-
-
-    
+    public abstract void cetak();   
 }
